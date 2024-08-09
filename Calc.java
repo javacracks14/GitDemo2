@@ -16,6 +16,10 @@ public class Calc
 	{
 		System.out.println("Adding (f,f): "+(a+b));
 	}
+	public void dispData()
+	{
+		System.out.println("Hello");
+	}
 }
 /*
 	1) No of Arguement Passed
